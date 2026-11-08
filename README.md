@@ -140,7 +140,8 @@ MeridianAccess_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="893" height="414" alt="TH25_01" src="https://github.com/user-attachments/assets/874bc0fe-2958-48f3-b822-f7e087096539" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -187,7 +188,8 @@ MeridianAccess_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="1164" height="750" alt="TH25_02" src="https://github.com/user-attachments/assets/61536657-e2d3-4aaa-90eb-fe23d02b5060" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -228,7 +230,8 @@ MeridianAccess_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="903" height="427" alt="TH25_03" src="https://github.com/user-attachments/assets/ce44384e-1304-45db-b6d8-e816ea277922" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -273,7 +276,8 @@ MeridianAuth_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="875" height="400" alt="TH25_04" src="https://github.com/user-attachments/assets/8934fa60-e09d-41c7-abe9-c74863bb3dba" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -312,7 +316,10 @@ MeridianAuth_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="892" height="394" alt="TH25_05c" src="https://github.com/user-attachments/assets/88f7b2be-c7fa-4651-b842-7223e166e4ec" />
+<img width="927" height="418" alt="TH25_05b" src="https://github.com/user-attachments/assets/c31da6db-67aa-4a18-9ac6-632e0280dc1b" />
+<img width="889" height="354" alt="TH25_05a" src="https://github.com/user-attachments/assets/4c2e527e-5e53-4a3a-8975-cecec9d03146" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -359,7 +366,8 @@ MeridianAudit_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="845" height="420" alt="TH25_06" src="https://github.com/user-attachments/assets/40d1e903-32c3-4930-80c5-46d0ea386f99" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -406,7 +414,8 @@ MeridianSnapshot_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="926" height="414" alt="TH25_07" src="https://github.com/user-attachments/assets/cec3b48f-b8f5-407b-8e53-a68cce693fcf" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -446,7 +455,8 @@ MeridianDefender_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="879" height="424" alt="TH25_08" src="https://github.com/user-attachments/assets/cacb034a-c2b4-4e34-bc4f-52f9ad30559d" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -490,7 +500,8 @@ MeridianDefender_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="886" height="425" alt="TH25_09" src="https://github.com/user-attachments/assets/baa3390a-aed8-44a3-910a-13d414230a35" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -529,7 +540,8 @@ MeridianSnapshot_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="787" height="408" alt="TH25_10" src="https://github.com/user-attachments/assets/e27673ff-d9b4-4527-bcad-88f0b31c081d" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -572,7 +584,8 @@ MeridianDefender_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="649" height="416" alt="TH25_11" src="https://github.com/user-attachments/assets/e3346241-c3cc-4e28-9abe-21aacf4d6e56" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -613,7 +626,8 @@ MeridianDefender_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="745" height="407" alt="TH25_12" src="https://github.com/user-attachments/assets/1681ce6d-9fa6-4bce-a188-91209ae4fd07" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -657,7 +671,8 @@ MeridianDefender_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="892" height="427" alt="TH25_13" src="https://github.com/user-attachments/assets/52c9daa2-f555-4dbb-9711-8d6c16e06e05" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -697,7 +712,8 @@ MeridianDefender_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="732" height="420" alt="TH25_14" src="https://github.com/user-attachments/assets/19f53f80-5008-4091-9dbd-89680cda57ff" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -742,7 +758,8 @@ MeridianAudit_CL
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="38" height="18" alt="TH25_15" src="https://github.com/user-attachments/assets/d750f88c-e8f3-4e0c-bcbe-41070dc01829" />
+
 
 ### 🛠️ Detection Recommendation
 
@@ -790,9 +807,6 @@ MeridianAudit_CL
 | project EventTime_t, comm_s, exe_s, auid_s, euid_s, Argv_s
 | order by EventTime_t asc
 ```
-
-### 🖼️ Screenshot
-<Insert screenshot>
 
 ### 🛠️ Detection Recommendation
 
