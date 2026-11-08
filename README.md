@@ -758,7 +758,8 @@ MeridianAudit_CL
 ```
 
 ### 🖼️ Screenshot
-<img width="38" height="18" alt="TH25_15" src="https://github.com/user-attachments/assets/d750f88c-e8f3-4e0c-bcbe-41070dc01829" />
+<img width="926" height="391" alt="TH25_15" src="https://github.com/user-attachments/assets/7608bb9f-b1e4-47e5-bac0-58f0b7b4fc8c" />
+
 
 
 ### 🛠️ Detection Recommendation
